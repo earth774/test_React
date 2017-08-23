@@ -1,2 +1,3 @@
 git checkout -b ...
 git merge ..
+git branch master
